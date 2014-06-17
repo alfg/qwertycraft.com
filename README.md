@@ -1,3 +1,5 @@
+# SERVER IS DISCONTINUED
+
 ### QweryCraft.com - A small, vanilla Minecraft server
 
 Feel free to join!
